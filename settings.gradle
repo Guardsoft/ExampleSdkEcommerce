@@ -1,0 +1,5 @@
+include ':sdk_ecommerce'
+include ':TMXProfilingConnections'
+include ':TMXProfiling'
+include ':app'
+rootProject.name = "ExampleSdkEcommerce"
